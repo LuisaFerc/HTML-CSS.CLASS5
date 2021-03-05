@@ -1,0 +1,44 @@
+html{
+    background-color: #ffffff;
+}
+
+.container{
+    width: 120%;
+    max-width: 850px;
+}
+
+.row{
+    width: 130%;
+    margin: 0% auto;
+    justify-content: center;
+    display: flex;
+    font-family: 'Archivo Narrow', sans-serif
+}
+
+.col-33{
+    width: 40%;
+    height: 70px;
+    display: flex;
+    margin: 35px;
+    font-family: 'Archivo Narrow', sans-serif
+}
+
+.sub2{
+    height: 300%;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 110px;
+    display: flex;
+    font-family: 'Archivo Narrow', sans-serif
+}
+
+.img{
+    width: 200px;
+}
+
+
+.div{
+    background-color: rgb(99, 17, 17);
+    display: flex;
+    font-family: 'Archivo Narrow', sans-serif
+}
